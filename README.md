@@ -59,7 +59,7 @@ A React-based Drum Machine app that plays unique sounds when clicking on pads or
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/drum-machine.git
+git clone https://github.com/2022-Yoseph/Drum-Machine.git
 cd drum-machine
 ````
 
